@@ -81,3 +81,14 @@ i{
 .fa-brands fa-ethereum{
     color:  hsl(178, 100%, 50%);
 }
+
+
+.attribution{
+    font-size: 1.2rem;
+    text-align: center;
+    margin-left: 1em;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
