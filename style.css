@@ -1,0 +1,83 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+main{
+    width: 380px;
+    margin: .4em;
+    padding: 1.5em;
+    border-radius: 15px 15px 15px 15px;
+    background-color:  hsl(215, 32%, 27%);
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: left;
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+}
+h2{
+    font-weight: 600;
+    color:  hsl(178, 100%, 50%);
+}
+
+.Equilibrium-paragraph{
+    text-align: left;
+    font-size: 1.2rem;
+    color:  hsl(215, 51%, 70%);
+    margin-left: .3em;
+    letter-spacing: .1em;
+    font-weight: 400;
+}
+
+.Equilibrium-image{
+    max-width: 100%;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.below{
+    display: flex;
+    align-items: center;
+    padding-top: .4em;
+}
+
+p{
+    margin-left: .9em;
+    font-weight: 400;
+}
+
+.below-image{
+    border-radius: 100%;
+    width: 11%;
+    background-color:  hsl(0, 0%, 100%);
+
+}
+
+hr{
+    border: double  hsl(215, 51%, 70%) .4px;
+}
+
+.below-name{
+    color: hsl(0, 0%, 100%);
+}
+
+i{
+    margin: .4em;
+}
+
+.fa-brands fa-ethereum{
+    color:  hsl(178, 100%, 50%);
+}
