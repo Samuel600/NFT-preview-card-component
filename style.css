@@ -6,10 +6,11 @@ body{
     min-height: 100vh; 
     text-align: center;
     font-family: 'Outfit', sans-serif;
+    flex-direction: column;
 }
 
 main{
-    width: 380px;
+    max-width: 20rem;
     margin: .4em;
     padding: 1.5em;
     border-radius: 15px 15px 15px 15px;
