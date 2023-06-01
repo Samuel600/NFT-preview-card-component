@@ -23,6 +23,12 @@ h1{
     color: hsl(0, 0%, 100%);
     font-weight: 600;
 }
+
+h1:hover{
+    color:  hsl(178, 100%, 50%);
+}
+
+
 h2{
     font-weight: 600;
     color:  hsl(178, 100%, 50%);
